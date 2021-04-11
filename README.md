@@ -1,16 +1,19 @@
 <h1 align="center">HELLO 👋, I AM SARIN M</h1>
 <h3 align="center">FULL-STACK WEB DEVELOPER</h3>
 <br>
+`
 <h4 align="left"><i>LET'S INTRODUCE ABOUT MYSELF</i></h4>
 <i align="left" width="50">
 Full-stack web developer with focus on quality output. Interested in exploring various possibilities of technology. Dived into MERN stack development and still swimming as it is enjoyable. Official designer and active member of various tech communities. Second year B.Tech student with Computer Science major.
 </i>
+`
 <br>
 <br>
 <p align="left"> <a href="https://twitter.com/sarinmsari" target="blank"><img src="https://img.shields.io/twitter/follow/sarinmsari?logo=twitter&style=for-the-badge" alt="sarinmsari" /></a> </p>
 
- 👨‍💻 portfolio:  [ sarinm.me ](https://sarinm.me)<br>
- 📫 contact:  hello@sarinm.me
+ 👨‍💻 portfolio:  [` sarinm.me `](https://sarinm.me)<br>
+ 📫 contact:  `hello@sarinm.me`
+ 
 
 <h3 align="left">Connect with me:</h3>
 
