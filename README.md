@@ -9,7 +9,7 @@ Full-stack web developer with focus on quality output. Interested in exploring v
 <br>
 <p align="left"> <a href="https://twitter.com/sarinmsari" target="blank"><img src="https://img.shields.io/twitter/follow/sarinmsari?logo=twitter&style=for-the-badge" alt="sarinmsari" /></a> </p>
 
- 👨‍💻 portfolio:  [sarinm.me](https://sarinm.me)<br>
+ 👨‍💻 portfolio:  [ sarinm.me ](https://sarinm.me)<br>
  📫 contact:  hello@sarinm.me
 
 <h3 align="left">Connect with me:</h3>
