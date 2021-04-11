@@ -1,7 +1,7 @@
 <h1 align="center">HELLO 👋, I AM SARIN M</h1>
 <h3 align="center">FULL-STACK WEB DEVELOPER</h3>
 <br>
-<h4 align="left">LET'S INTRODUCE ABOUT MYSELF</h4>
+<h4 align="left"><i>LET'S INTRODUCE ABOUT MYSELF</i></h4>
 <i align="left" width="50">
 Full-stack web developer with focus on quality output. Interested in exploring various possibilities of technology. Dived into MERN stack development and still swimming as it is enjoyable. Official designer and active member of various tech communities. Second year B.Tech student with Computer Science major.
 </i>
@@ -15,8 +15,8 @@ Full-stack web developer with focus on quality output. Interested in exploring v
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/sarinmsari" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/LINKEDIN-512.png" alt="sarinmsari" height="21" width="21" /></a>&nbsp;
-<a href="https://twitter.com/sarinmsari" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/TWITTER-512.png" alt="sarinmsari" height="21" width="21" /></a>&nbsp;
+<a href="https://linkedin.com/in/sarinmsari" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/LINKEDIN-512.png" alt="sarinmsari" height="21" width="21" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/sarinmsari" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/TWITTER-512.png" alt="sarinmsari" height="21" width="21" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/iamsar.in" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/INSTAGRAM-512.png" alt="iamsar.in" height="21" width="21" /></a>
 </p>
 <br>
