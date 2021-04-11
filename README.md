@@ -28,7 +28,6 @@ Full-stack web developer with focus on quality output. Interested in exploring v
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarinmsari&show_icons=true&locale=en&layout=compact" alt="sarinmsari" /></div>
 
 <div>
-<p align="right">
-<h3 >Support:</h3>
-<p ><a href="https://www.buymeacoffee.com/sarin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarin" /></a></p></p><br><br>
+ <h3 align="right">Support:&nbsp; &nbsp; &nbsp; &nbsp;</h3>
+<p align="right"><a href="https://www.buymeacoffee.com/sarin"> <img align="" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarin" /></a></p>
  </div>
