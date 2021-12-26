@@ -1,5 +1,5 @@
 <h1 align="center">HELLO 👋, I AM SARIN M</h1>
-<h3 align="center">FULL-STACK WEB DEVELOPER</h3>
+<h3 align="center">COMPUTER SCIENCE AND ENGINEERING</h3>
 <br>
 
 <h4 align="left"><i>LET'S INTRODUCE ABOUT MYSELF</i></h4>
