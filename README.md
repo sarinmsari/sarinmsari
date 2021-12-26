@@ -4,8 +4,7 @@
 
 <h4 align="left"><i>LET'S INTRODUCE ABOUT MYSELF</i></h4>
 <i align="left" width="50">
-A passionate tech enthusiast who is always interested in trying out various possibilities of technology. Google Developer Student Clubs lead and active player of various tech communities. Computer Science and Engineering student with scalable and long term design thought processes.
-Thierd year B.Tech student with Computer Science major. Always love to work with technology :) 
+A passionate tech enthusiast who is always interested in trying out various possibilities of technology. Google Developer Student Clubs lead and active player of various tech communities. Computer Science and Engineering student with scalable and long term design thought processes. Always love to work with technology :) 
 </i>
 
 <br>
