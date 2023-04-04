@@ -10,7 +10,7 @@ A passionate tech enthusiast who is always interested in trying out various poss
 <br>
 <br>
 
- 👨‍💻 portfolio:  [` sarinm.netlify.app `](https://sarinm.netlify.app/)<br>
+ 👨‍💻 portfolio:  [` SarinM.tech `](https://sarinm.tech)<br>
  
 
 <h3 align="left">Connect with me:</h3>
