@@ -12,7 +12,7 @@ With a commitment to continuous learning and a passion for technology, always re
 <br>
 <br>
 
- 👨‍💻 portfolio:  [` SarinM.tech `](https://sarinm.tech)<br>
+ 👨‍💻 profile:  [` Sarin M `](https://sarin.bio.link)<br>
  
 
 <h3 align="left">Connect with me:</h3>
