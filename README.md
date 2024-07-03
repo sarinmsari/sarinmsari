@@ -12,7 +12,7 @@ With a commitment to continuous learning and a passion for technology, always re
 <br>
 <br>
 
- 👨‍💻 profile:  [` Sarin M `](https://sarin.bio.link)<br>
+ 👨‍💻 profile:  [` sarin.studio `](https://sarin.studio)<br>
  
 
 <h3 align="left">Connect with me:</h3>
