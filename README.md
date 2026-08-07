@@ -12,15 +12,8 @@ With a commitment to continuous learning and a passion for technology, always re
 <br>
 <br>
 
- 👨‍💻 profile:  [` sarinm.me `](https://sarinm.me)<br>
+ 👨‍💻 profile:  [` sarin.doops.site `](https://sarin.doops.site)<br>
  
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/sarinmsari" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/LINKEDIN-512.png" alt="sarinmsari" height="21" width="21" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/sarinmsari" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/TWITTER-512.png" alt="sarinmsari" height="21" width="21" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/sarinm.me" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/INSTAGRAM-512.png" alt="sarinm.me" height="21" width="21" /></a>
 </p>
 
 <div>
